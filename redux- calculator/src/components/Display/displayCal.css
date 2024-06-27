@@ -1,0 +1,10 @@
+.row{
+    margin: 0;
+  }
+  #manhinh{
+ 
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+}
